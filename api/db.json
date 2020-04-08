@@ -20,5 +20,63 @@
       "commonName": "Bonnett",
       "color": "blue"
     }
+  ],
+  "retailers": [
+    {
+      "id": 1,
+      "name": "Foremans Funky Flowers",
+      "city": "Denver",
+      "state": "CO",
+      "address": "4200 Alpine Ct"
+    },
+    {
+      "id": 2,
+      "name": "Trish's Garden",
+      "city": "Los Angeles",
+      "state": "CA",
+      "address": "1300 Ocean View"
+    },
+    {
+      "id": 3,
+      "name": "Bloom",
+      "city": "Seatle",
+      "state": "WA",
+      "address": "7372 Scenic St"
+    },
+    {
+      "id": 4,
+      "name": "Planters",
+      "city": "Houston",
+      "state": "TX",
+      "address": "999 I-10"
+    },
+    {
+      "id": 5,
+      "name": "Tree Me",
+      "city": "Honolulu",
+      "state": "HI",
+      "address": "4444 Aloha St"
+    },
+    {
+      "id": 6,
+      "name": "Piney Place",
+      "city": "Boulder",
+      "state": "CO",
+      "address": "3896 Piney Place"
+    },
+    {
+      "id": 7,
+      "name": "Rose's Roses",
+      "city": "Nashville",
+      "state": "TN",
+      "address": "5674 HWY 100"
+    },
+    {
+      "id": 8,
+      "name": "Mother Earth",
+      "city": "Santa Fe",
+      "state": "NM",
+      "address": "5777 Old Spirit Ave"
+    }
   ]
 }
