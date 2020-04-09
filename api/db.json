@@ -27,56 +27,87 @@
       "name": "Foremans Funky Flowers",
       "city": "Denver",
       "state": "CO",
-      "address": "4200 Alpine Ct"
+      "address": "4200 Alpine Ct",
+      "distributorId": 1
     },
     {
       "id": 2,
       "name": "Trish's Garden",
       "city": "Los Angeles",
       "state": "CA",
-      "address": "1300 Ocean View"
+      "address": "1300 Ocean View",
+      "distributorId": 2
     },
     {
       "id": 3,
       "name": "Bloom",
       "city": "Seatle",
       "state": "WA",
-      "address": "7372 Scenic St"
+      "address": "7372 Scenic St",
+      "distributorId": 2
     },
     {
       "id": 4,
       "name": "Planters",
       "city": "Houston",
       "state": "TX",
-      "address": "999 I-10"
+      "address": "999 I-10",
+      "distributorId": 3
     },
     {
       "id": 5,
       "name": "Tree Me",
       "city": "Honolulu",
       "state": "HI",
-      "address": "4444 Aloha St"
+      "address": "4444 Aloha St",
+      "distributorId": 2
     },
     {
       "id": 6,
       "name": "Piney Place",
       "city": "Boulder",
       "state": "CO",
-      "address": "3896 Piney Place"
+      "address": "3896 Piney Place",
+      "distributorId": 1
     },
     {
       "id": 7,
       "name": "Rose's Roses",
       "city": "Nashville",
       "state": "TN",
-      "address": "5674 HWY 100"
+      "address": "5674 HWY 100",
+      "distributorId": 3
     },
     {
       "id": 8,
       "name": "Mother Earth",
       "city": "Santa Fe",
       "state": "NM",
-      "address": "5777 Old Spirit Ave"
+      "address": "5777 Old Spirit Ave",
+      "distributorId": 3
+    }
+  ],
+  "distributors": [
+    {
+      "id": 1,
+      "name": "Happy Buds Distributors",
+      "city": "Denver",
+      "state": "CO",
+      "address": "442200 Happy Tree St"
+    },
+    {
+      "id": 2,
+      "name": "Flora",
+      "city": "San Fransisco",
+      "state": "CA",
+      "address": "33467 Gaine St"
+    },
+    {
+      "id": 3,
+      "name": "Dalia Distributors",
+      "city": "Austin",
+      "state": "TX",
+      "address": "1785 S. Congress Ave"
     }
   ]
 }
